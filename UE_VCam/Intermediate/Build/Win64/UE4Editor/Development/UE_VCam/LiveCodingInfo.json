@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UE_VCam.cpp.obj": [
+			"GetGameData.cpp.obj",
+			"UE_VCam.cpp.obj",
+			"UE_VCamBPLibrary.cpp.obj"
+		],
+		"Module.UE_VCam.gen.cpp.obj": [
+			"GetGameData.gen.cpp.obj",
+			"UE_VCam.init.gen.cpp.obj",
+			"UE_VCamBPLibrary.gen.cpp.obj"
+		]
+	}
+}

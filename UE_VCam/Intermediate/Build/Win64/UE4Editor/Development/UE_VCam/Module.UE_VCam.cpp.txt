@@ -1,0 +1,16 @@
+E:\UE_Project\Github\Plugins\UE_VCam\Intermediate\Build\Win64\UE4Editor\Development\UE_VCam\Definitions.UE_VCam.h
+E:/UE_Project/Github/Plugins/UE_VCam/Source/UE_VCam/Private/GetGameData.cpp
+E:\UE_Project\Github\Plugins\UE_VCam\Source\UE_VCam\Public\GetGameData.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieSceneCapture/Public/FrameGrabber.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameEngine.generated.h
+E:\UE_Project\Github\Plugins\UE_VCam\Intermediate\Build\Win64\UE4Editor\Inc\UE_VCam\GetGameData.generated.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\IAssetViewport.h
+E:/UE_Project/Github/Plugins/UE_VCam/Source/UE_VCam/Private/UE_VCam.cpp
+E:\UE_Project\Github\Plugins\UE_VCam\Source\UE_VCam\Public\UE_VCam.h
+E:/UE_Project/Github/Plugins/UE_VCam/Source/UE_VCam/Private/UE_VCamBPLibrary.cpp
+E:\UE_Project\Github\Plugins\UE_VCam\Source\UE_VCam\Public\UE_VCamBPLibrary.h
+E:\UE_Project\Github\Plugins\UE_VCam\Intermediate\Build\Win64\UE4Editor\Inc\UE_VCam\UE_VCamBPLibrary.generated.h
