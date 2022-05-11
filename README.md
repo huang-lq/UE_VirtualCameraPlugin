@@ -9,6 +9,8 @@ Because some platforms have video formats that do not support output, a variety 
 
 ![ShowCase](https://user-images.githubusercontent.com/50535321/167609782-862eb4ad-277f-43df-9877-29970b5040ec.png)
 
-If you have any questions, please contact me
-Github: https://github.com/huang-lq
-CSDN:   https://blog.csdn.net/weixin_44346103?type=blog
+![VCam Setting](https://user-images.githubusercontent.com/50535321/167820131-1fb36ad7-fe94-4aad-a9ad-b05bf2786727.jpg)
+
+*   If you have any questions, please contact me
+*   Github: https://github.com/huang-lq
+*   CSDN:   https://blog.csdn.net/weixin_44346103?type=blog
