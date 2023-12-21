@@ -1,0 +1,31 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\intermediate\\build\\win64\\unrealeditor\\development\\ue_vcam\\module.ue_vcam.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\ueproject\\ue5vc\\intermediate\\build\\win64\\ue5vceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\intermediate\\build\\win64\\unrealeditor\\development\\ue_vcam\\definitions.ue_vcam.h",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_vcam\\uht\\getgamedata.gen.cpp",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\source\\ue_vcam\\public\\getgamedata.h",
+            "d:\\gameengine\\ue_5.1\\engine\\source\\runtime\\moviescenecapture\\public\\framegrabber.h",
+            "d:\\gameengine\\ue_5.1\\engine\\source\\runtime\\engine\\public\\slate\\sceneviewport.h",
+            "d:\\gameengine\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\gameengine.h",
+            "d:\\gameengine\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\sviewport.h",
+            "d:\\gameengine\\ue_5.1\\engine\\source\\runtime\\moviescenecapture\\public\\moviescenecapturehandle.h",
+            "d:\\gameengine\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameengine.generated.h",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_vcam\\uht\\getgamedata.generated.h",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_vcam\\uht\\ue_vcam.init.gen.cpp",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_vcam\\uht\\ue_vcambplibrary.gen.cpp",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\source\\ue_vcam\\public\\ue_vcambplibrary.h",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_vcam\\uht\\ue_vcambplibrary.generated.h",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\source\\ue_vcam\\private\\getgamedata.cpp",
+            "d:\\gameengine\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\iassetviewport.h",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\source\\ue_vcam\\private\\ue_vcam.cpp",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\source\\ue_vcam\\public\\ue_vcam.h",
+            "d:\\project\\ueproject\\ue5vc\\plugins\\ue_vcam\\source\\ue_vcam\\private\\ue_vcambplibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
