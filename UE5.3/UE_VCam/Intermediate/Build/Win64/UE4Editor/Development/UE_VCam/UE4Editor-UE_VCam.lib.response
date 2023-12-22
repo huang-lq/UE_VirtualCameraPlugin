@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE_VCam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\UEProject\vcam\Intermediate\Build\Win64\vcamEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\Project\UEProject\vcam\Plugins\UE_VCam\Intermediate\Build\Win64\UE4Editor\Development\UE_VCam\Module.UE_VCam.cpp.obj"
+"D:\Project\UEProject\vcam\Plugins\UE_VCam\Intermediate\Build\Win64\UE4Editor\Development\UE_VCam\Module.UE_VCam.gen.cpp.obj"
+"D:\Project\UEProject\vcam\Plugins\UE_VCam\Intermediate\Build\Win64\UE4Editor\Development\UE_VCam\Default.rc2.res"
+/OUT:"D:\Project\UEProject\vcam\Plugins\UE_VCam\Intermediate\Build\Win64\UE4Editor\Development\UE_VCam\UE4Editor-UE_VCam.lib"

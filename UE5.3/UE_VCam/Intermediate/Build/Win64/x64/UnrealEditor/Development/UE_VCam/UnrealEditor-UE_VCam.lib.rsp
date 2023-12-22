@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE_VCam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\UE\Test\Intermediate\Build\Win64\x64\TestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\Project\UE\Test\Plugins\UE_VCam\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_VCam\Module.UE_VCam.cpp.obj"
+"D:\Project\UE\Test\Plugins\UE_VCam\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_VCam\Default.rc2.res"
+/OUT:"D:\Project\UE\Test\Plugins\UE_VCam\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_VCam\UnrealEditor-UE_VCam.lib"
